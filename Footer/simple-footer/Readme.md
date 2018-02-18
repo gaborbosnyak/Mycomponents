@@ -1,0 +1,1 @@
+Egyszerû footer, calc használatával hogy mindig az alján legyen fixen.
